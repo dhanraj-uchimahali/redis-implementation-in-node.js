@@ -4,9 +4,9 @@
 
 1. Clone the repository:
 
-   HTTPS: git clone https://github.com/Aizonati/redis-implementation-in-node.js.git
+   HTTPS: git clone https://github.com/dhanraj-uchimahali/redis-implementation-in-node.js.git
    
-   SSH:   git clone git@github.com:Aizonati/redis-implementation-in-node.js.git
+   SSH:   git clone git@github.com:dhanraj-uchimahali/redis-implementation-in-node.js.git
    
 3. Install dependencies: 
    
